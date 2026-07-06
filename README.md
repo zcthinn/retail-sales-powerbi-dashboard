@@ -35,25 +35,25 @@ and Recommendations.
 ## Screenshots
 
 ### Executive Summary
-![Executive Summary](./screenshots/Summary.png)
+![Executive Summary](Summary.png)
 
 ### Product Analysis
-![Product Analysis](./screenshots/Product.png)
+![Product Analysis](Product.png)
 
 ### Region Analysis
-![Region Analysis](./screenshots/Regional.png)
+![Region Analysis](Regional.png)
 
 ### Customer Segment Analysis
-![Customer Segment Analysis](./screenshots/CustomerSegmentegment.png)
+![Customer Segment Analysis](CustomerSegmentegment.png)
 
 ### Discount Analysis
-![Discount Analysis](./screenshots/Discount.png)
+![Discount Analysis](Discount.png)
 
 ### Recommendations
-![Recommendations](./screenshots/Recommendations.png)
+![Recommendations](Recommendations.png)
 
 ### Data Model View
-![Data Model View](./screenshots/ModelView.png)
+![Data Model View](ModelView.png)
 ## Tools Used
 Power BI Desktop, DAX, Power Query
 
