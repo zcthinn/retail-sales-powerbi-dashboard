@@ -58,5 +58,5 @@ and Recommendations.
 Power BI Desktop, DAX, Power Query
 
 ## Download
-![Download the .pbix file] (https://github.com/zcthinn/retail-sales-powerbi-dashboard/blob/main/Retail%20Sales%20Performance%20%26%20Profitability%20Analytics%20Project.pbix) 
+https://github.com/zcthinn/retail-sales-powerbi-dashboard/blob/main/Retail%20Sales%20Performance%20%26%20Profitability%20Analytics%20Project.pbix
 to explore interactively.
