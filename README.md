@@ -44,7 +44,7 @@ and Recommendations.
 ![Region Analysis](Regional.png)
 
 ### Customer Segment Analysis
-![Customer Segment Analysis](CustomerSegmentegment.png)
+![Customer Segment Analysis](CustomerSegment.png)
 
 ### Discount Analysis
 ![Discount Analysis](Discount.png)
